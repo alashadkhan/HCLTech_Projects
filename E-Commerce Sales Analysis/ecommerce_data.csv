@@ -1,0 +1,31 @@
+Order_ID,Customer_ID,Customer_Name,Category,City,Order_Date,Delivery_Date,Order_Value,Status,Rating,Feedback
+S2001,C101,Ravi Kumar,Furniture,Jaipur,2025-03-01,2025-03-06,8500,Completed,4,Good quality
+S2002,C102,Anita Desai,Electronics,Ahmedabad,2025-03-03,2025-03-09,24000,Completed,5,Excellent product
+S2003,C103,Sunil Rao,Groceries,Pune,2025-03-05,2025-03-07,1200,Cancelled,1,Late delivery
+S2004,C104,Kavita Nair,Clothing,Surat,2025-03-07,2025-03-12,3500,Completed,4,Nice fabric
+S2005,C105,Manoj Patel,Electronics,Rajkot,2025-03-09,2025-03-15,18500,Returned,2,Defective item
+S2006,C101,Ravi Kumar,Furniture,Jaipur,2025-03-11,2025-03-17,12000,Completed,5,Very happy
+S2007,C106,Divya Joshi,Groceries,Vadodara,2025-03-13,2025-03-14,800,Completed,5,Fast delivery
+S2008,C107,Alok Verma,Electronics,Bhopal,2025-03-15,2025-03-21,32000,Completed,4,Worth the price
+S2009,C108,Pooja Shah,Clothing,Indore,2025-03-17,2025-03-23,2900,Returned,3,Wrong color
+S2010,C109,Suresh Mehta,Furniture,Nagpur,2025-03-19,2025-03-25,15000,Completed,4,Sturdy furniture
+S2011,C102,Anita Desai,Electronics,Ahmedabad,2025-03-21,2025-03-27,28000,Cancelled,2,Took too long
+S2012,C110,Neha Reddy,Groceries,Hyderabad,2025-03-23,2025-03-24,1500,Completed,5,Fresh items
+S2013,C111,Vikram Singh,Clothing,Lucknow,2025-03-25,2025-03-31,4200,Completed,3,Average fit
+S2014,C112,Lakshmi Iyer,Electronics,Coimbatore,2025-03-27,2025-04-02,21000,Completed,5,Great service
+S2015,C103,Sunil Rao,Furniture,Pune,2025-03-29,2025-04-04,9500,Returned,1,Damaged during delivery
+S2016,C113,Arjun Menon,Clothing,Kochi,2025-03-31,2025-04-06,3100,Completed,4,Good product
+S2017,C114,Shreya Gupta,Electronics,Noida,2025-04-02,2025-04-08,26000,Completed,5,Best buy
+S2018,C115,Ramesh Yadav,Groceries,Patna,2025-04-04,2025-04-05,900,Cancelled,1,Never arrived
+S2019,C106,Divya Joshi,Furniture,Vadodara,2025-04-06,2025-04-12,11000,Completed,4,Satisfied
+S2020,C116,Tina Sharma,Clothing,Dehradun,2025-04-08,2025-04-14,3800,Returned,2,Size issue
+S2021,C107,Alok Verma,Electronics,Bhopal,2025-04-10,2025-04-16,30000,Completed,4,Reliable brand
+S2022,C117,Deepak Rao,Groceries,Mangalore,2025-04-12,2025-04-13,1100,Completed,5,Quick delivery
+S2023,C108,Pooja Shah,Furniture,Indore,2025-04-14,2025-04-20,14000,Completed,3,Okay quality
+S2024,C118,Sneha Reddy,Electronics,Visakhapatnam,2025-04-16,2025-04-22,19500,Completed,5,Amazing
+S2025,C109,Suresh Mehta,Clothing,Nagpur,2025-04-18,2025-04-24,2700,Cancelled,1,Wrong item sent
+S2026,C119,Harshit Agarwal,Groceries,Agra,2025-04-20,2025-04-21,1300,Completed,4,Good packing
+S2027,C110,Neha Reddy,Electronics,Hyderabad,2025-04-22,2025-04-28,23000,Completed,4,Happy with it
+S2028,C120,Meena Kapoor,Furniture,Chandigarh,2025-04-24,2025-04-30,10500,Completed,5,Loved it
+S2029,C111,Vikram Singh,Groceries,Lucknow,2025-04-26,2025-04-27,950,Returned,2,Expired product
+S2030,C101,Ravi Kumar,Clothing,Jaipur,2025-04-28,2025-05-04,4500,Completed,4,Nice collection
